@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4",
-  "apkUrl": "https://github.com/infoznetu-rgb/Public/releases/download/v0.4/app-release.apk",
-  "notes": "Virtuálny Tipsér 0.4 – zálohovanie a obnovenie histórie virtuálnych tiketov."
+  "versionCode": 5,
+  "versionName": "0.5",
+  "apkUrl": "https://github.com/infoznetu-rgb/Public/releases/download/v0.5/app-release.apk",
+  "notes": "Virtuálny Tipsér 0.5 – virtuálne kolá, nastaviteľný vklad od 0,10 €, limit straty, dorovnanie strát a prehľadnejší dizajn."
 }
