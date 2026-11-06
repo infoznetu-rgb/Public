@@ -1,7 +1,6 @@
-
 {
-  "versionCode": 1,
-  "versionName": "0.1",
-  "apkUrl": "",
-  "notes": "Pripravuje sa prvé vydanie."
+  "versionCode": 2,
+  "versionName": "0.2",
+  "apkUrl": "https://github.com/infoznetu-rgb/Public/releases/download/v0.2/app-release.apk",
+  "notes": "Virtuálny Tipsér 0.2 – aktualizácie aplikácie."
 }
